@@ -46,6 +46,7 @@ int main()
 		char name[50];
 		char value[150];
 	};
+	
 	signed int result = 0;
 	signed int num_operand1 = 0;
 	signed int num_operand2 = 0;
