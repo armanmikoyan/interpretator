@@ -6,9 +6,3 @@ int num3 21
 str str2 hello
 log num3 / num1
 log num3 - num1
-
-
-
-
-
-
